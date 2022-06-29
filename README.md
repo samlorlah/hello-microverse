@@ -1,19 +1,6 @@
-# hello-microverse
+# Project: Hello Microverse
 
-# Project Name
-
-This is my first project on Microverse and it is titled Hello Microverse
-
-Built With
-Major languages - N/A
-Frameworks - N/A
-Technologies used
-Live Demo (if available)
-Live Demo Link
-
-# Project Name
-
-> Description the project.
+> This is my first project at Microverse and it is titled Hello Microverse
 
 ## Built With
 
@@ -23,11 +10,11 @@ Live Demo Link
 
 ## Authors
 
-👤 **Author1**
+👤 **Oluwamuyiwa Fawole**
 
-- GitHub: [@githubhandle](https://github.com/samlorlah)
-- Twitter: [@twitterhandle](https://twitter.com/samlorlah)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/muyiwa_fawole)
+- GitHub: [@samlorlah](https://github.com/samlorlah)
+- Twitter: [@samlorlah](https://twitter.com/samlorlah)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muyiwa-fawole/)
 
 ## 🤝 Contributing
 
@@ -47,4 +34,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project
+This project is [MIT](./MIT.md) licensed.
